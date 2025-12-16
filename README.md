@@ -1,4 +1,7 @@
-## Steer_Motor
+## Steer_Motor     
+A differential gear is a crucial automotive component that transmits engine power to the wheels, allowing them to rotate at different speeds, especially during turns, so the outer wheel travels farther and faster than the inner wheel for smooth cornering and stability.        
+
+       
 ### Description :
 This program controls the speed of the left and right motors in an EV based on the steering angle of the vehicle.                                      
 The purpose is to enable smooth cornering by adjusting motor speeds using Ackermann-like geometry.
