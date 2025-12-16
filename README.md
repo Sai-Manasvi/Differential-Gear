@@ -1,4 +1,4 @@
-## Steer_Motor     
+## Differential Gear           
 A differential gear is a crucial automotive component that transmits engine power to the wheels, allowing them to rotate at different speeds, especially during turns, so the outer wheel travels farther and faster than the inner wheel for smooth cornering and stability.        
 
        
